@@ -14,6 +14,6 @@ It offers AI assistance to review code for optimizations, improve readability, a
 **Step 1:**  
 Go to the website and create a room. Copy the Room ID and share it with your friends so they can join the session.
 
-<img width="665" height="687" alt="Screenshot 2025-07-14 at 7 59 59 AM" src="https://github.com/user-attachments/assets/ac6380e0-b55f-4763-8875-6da3a4d2484f" />
+<img width="1440" height="789" alt="Screenshot 2025-07-14 at 8 08 01 AM" src="https://github.com/user-attachments/assets/78f71717-5b12-4da1-87a8-93d3e4c7c6f2" />
 
-
+<img width="2872" height="1580" alt="image" src="https://github.com/user-attachments/assets/1b3d4c4d-3ac7-43e3-b2bd-b3ec93a763f7" />
