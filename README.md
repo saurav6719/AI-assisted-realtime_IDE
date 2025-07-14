@@ -10,6 +10,8 @@ It offers AI assistance to review code for optimizations, improve readability, a
 
 ## 🚀 Features
 
+---
+
 ### 🧑‍💻 **Real-Time Collaboration**
 Multiple users can join a shared code room and collaborate live via WebSockets.
 
