@@ -153,10 +153,10 @@ Open your browser and visit:
 
 **Saurav Kumar**  
 B.Tech CSE @ Delhi Technological University  
-📧 sauravkr485@gmail.com 
-[likendin](https://www.linkedin.com/in/saurav-kumar-aa181b237/)
-[codeforces](https://codeforces.com/profile/Lazy_Seg_Tree) 
-[codechef](https://www.codechef.com/users/sauravkr485) 
+sauravkr485@gmail.com 
+[linkedIn](https://www.linkedin.com/in/saurav-kumar-aa181b237/)
+[Codeforces](https://codeforces.com/profile/Lazy_Seg_Tree) 
+[Codechef](https://www.codechef.com/users/sauravkr485) 
 
 
 
