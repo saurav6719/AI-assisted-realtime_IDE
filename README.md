@@ -79,7 +79,7 @@ Use AI assistance to speed up debugging, optimize your code, improve readability
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/code-dekho.git
+git clone https://github.com/saurav6719/AI-assisted-realtime_IDE.git
 ```
 
 ### 2. Install Dependencies
