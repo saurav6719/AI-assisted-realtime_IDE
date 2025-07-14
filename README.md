@@ -35,7 +35,6 @@ Built with a clean and responsive UI, and a scalable backend for a seamless expe
 
 
 ## 🏗️ High-Level Architecture
----
 
 - Clients are connected to the backend via WebSockets.
 - API services are used to connect to Gemini (AI review) and Piston Online Judge (code execution).
