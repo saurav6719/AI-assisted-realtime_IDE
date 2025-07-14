@@ -8,21 +8,23 @@ This is an Integrated Development Environment (IDE) that supports multiple users
 
 It offers AI assistance to review code for optimizations, improve readability, and detect potential errors. The platform supports multiple programming languages to facilitate diverse development needs.
 
-🚀 Features
-🧑‍💻 Real-Time Collaboration
+## 🚀 Features
+
+### 🧑‍💻 **Real-Time Collaboration**
 Multiple users can join a shared code room and collaborate live via WebSockets.
 
-💡 AI Code Review
+### 💡 **AI Code Review**
 Integrated Gemini API to analyze and suggest best practices, optimizations, and improvements.
 
-⚙️ Multi-Language Code Execution
+### ⚙️ **Multi-Language Code Execution**
 Supports real-time code execution in C++, Python, Java, and JavaScript using the Piston API.
 
-📡 Room Management with Socket.IO
+### 📡 **Room Management with Socket.IO**
 Users can join/leave rooms and sync code edits with real-time accuracy.
 
-🌐 Modern Tech Stack
-Built with a clean and responsive UI, and a scalable backend for seamless experience.
+### 🌐 **Modern Tech Stack**
+Built with a clean and responsive UI, and a scalable backend for a seamless experience.
+
 
 
 
