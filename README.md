@@ -2,15 +2,17 @@
 
 Here is the web app: [https://ai-assisted-realtime-ide.onrender.com/](https://ai-assisted-realtime-ide.onrender.com/)
 
+---
+
 ## 📝 Introduction
 
 This is an Integrated Development Environment (IDE) that supports multiple users joining a room to work on the same piece of code collaboratively. Users can edit, run, and compile code simultaneously in real time.
 
 It offers AI assistance to review code for optimizations, improve readability, and detect potential errors. The platform supports multiple programming languages to facilitate diverse development needs.
 
-## 🚀 Features
+--- 
 
----
+## 🚀 Features
 
 ### 🧑‍💻 **Real-Time Collaboration**
 Multiple users can join a shared code room and collaborate live via WebSockets.
@@ -29,7 +31,7 @@ Built with a clean and responsive UI, and a scalable backend for a seamless expe
 
 
 
-
+---
 
 ## 🚀 Step-by-Step Guide to Use
 
@@ -43,3 +45,110 @@ Edit, run, brainstorm, and collaborate together simultaneously and seamlessly. W
 
 
 <img width="2872" height="1580" alt="image" src="https://github.com/user-attachments/assets/1b3d4c4d-3ac7-43e3-b2bd-b3ec93a763f7" />
+
+**Step 3:**  
+Use AI assistance to speed up debugging, optimize your code, improve readability, and follow best practices.
+
+<img width="1422" height="788" alt="Screenshot 2025-07-14 at 9 32 23 AM" src="https://github.com/user-attachments/assets/0ff39af5-7adf-4edc-8123-2bdd12187260" />
+
+---
+
+
+## 🛠️ Tech Stack
+
+| Layer       | Technologies                                      |
+|-------------|---------------------------------------------------|
+| **Frontend**| React.js, JavaScript, CSS, Socket.IO              |
+| **Backend** | Node.js, Express.js, Socket.IO                    |
+| **APIs Used** | [Piston API](https://github.com/engineer-man/piston), [Gemini API](https://ai.google.dev/) |
+| **Others**  | Vite, Nodemon, Axios                              |
+
+
+---
+
+## 🧪 How It Works
+
+1. User joins a room via a unique **Room ID**.
+2. The code editor is synced across users using **Socket.IO**.
+3. Code can be written and executed instantly via the **Piston API**.
+4. An **AI Review** can be triggered using the **Gemini API** to receive feedback on code quality, structure, and optimizations.
+
+---
+
+## 🔧 Getting Started (Local Setup)
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/code-dekho.git
+```
+
+### 2. Install Dependencies
+
+**Frontend:**
+```bash
+cd frontend
+npm install
+```
+
+**Backend:**
+```bash
+cd ../backend
+npm install
+```
+
+### 3. Run the Servers
+
+**Start Backend:**
+```bash
+npm run dev
+```
+
+**Start Frontend:**
+```bash
+cd ../frontend
+npm run dev
+```
+
+Open your browser and visit:  
+`http://localhost:5173`
+
+---
+
+## 📦 Folder Structure
+
+```
+.
+├── frontend
+│   └── src/
+│       ├── main.jsx
+│       └── App.jsx
+├── backend
+│   └── index.js
+├── README.md
+```
+
+---
+
+## 📈 Future Improvements
+
+- Enhance AI reviews to support **multiple suggestions with scoring**.
+- Add **user authentication** and **room persistence**.
+- Implement better **concurrency control** for large groups.
+- Integrate **audio chat feature** for real-time verbal collaboration in a room.
+
+---
+
+## 👨‍💻 Author
+
+**Saurav Kumar**  
+B.Tech CSE @ Delhi Technological University  
+📧 sauravkr485@gmail.com 
+[likendin](https://www.linkedin.com/in/saurav-kumar-aa181b237/)
+[codeforces](https://codeforces.com/profile/Lazy_Seg_Tree) 
+[codechef](https://www.codechef.com/users/sauravkr485) 
+
+
+
+
+
+
